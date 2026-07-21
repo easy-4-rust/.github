@@ -42,6 +42,12 @@
 | [`easyofd-rs`](https://github.com/easy-4-rust/easyofd-rs) | OFD（开放版式文档）操作库 | ✅ |
 | [`easydoc-rs`](https://github.com/easy-4-rust/easydoc-rs) | DOCX 模板生成与排版 | ✅ |
 
+### 安全与权限（Security）
+
+| Crate | 说明 | 状态 |
+|-------|------|:---:|
+| [`sa-token-rs`](https://github.com/easy-4-rust/sa-token-rs) | 认证鉴权框架（独立实现，API 类似 Sa-Token） | ✅ |
+
 ### 通用工具（Toolkit）
 
 | Crate | 说明 | 状态 |
@@ -53,7 +59,7 @@
 | 项目 | 说明 | 维护方 |
 |------|------|--------|
 | `easyexcel` | 流式 Excel 框架 | [alibaba/easyexcel](https://github.com/alibaba/easyexcel) |
-| `sa-token` | 认证鉴权框架 | [dromara/Sa-Token](https://github.com/dromara/Sa-Token) |
+| `sa-token` | 认证鉴权框架（Java） | [dromara/Sa-Token](https://github.com/dromara/Sa-Token) |
 | `hutool` | Java 工具箱 | [dromara/hutool](https://github.com/dromara/hutool) |
 
 > 以上 Java 工具**不属于本组织托管**，需要时请直接访问对应官方仓库。
