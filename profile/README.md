@@ -1,6 +1,6 @@
 # Easy-4-Rust
 
-> **🦀 Rust 易用工具集** —— 由 [@hiwepy](https://github.com/hiwepy) 独立开发与维护
+> **🦀 Rust 易用工具集** —— 由 [@hiwepy](https://github.com/hiwepy) 开发与收集
 >
 > 文档格式、通用工具等高频场景的 idiomatic Rust 工具集
 
