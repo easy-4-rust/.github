@@ -20,7 +20,7 @@
 
 ## 关于本组织
 
-**Easy-4-Rust** 是 [partme-ai](https://github.com/partme-ai) 开源生态下的 Rust 工具集组织，专门托管由 [@hiwepy](https://github.com/hiwepy) **原创**的 Rust crate —— 面向**文档格式处理**、**通用工具**等高频场景。
+**Easy-4-Rust** 是 [partme-ai](https://github.com/partme-ai) 开源生态下的 Rust 工具集组织，专门托管由 [@hiwepy](https://github.com/hiwepy) **原创**和**收集**的 Rust crate —— 面向**文档格式处理**、**通用工具**等高频场景。
 
 > 📌 **重要说明**：本组织**不托管**以下常见开源项目的镜像或 fork：
 > - [`easyexcel`](https://github.com/alibaba/easyexcel) —— Alibaba 开源项目，独立维护
